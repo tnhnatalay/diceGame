@@ -2,7 +2,7 @@
 
 # Dice Game
 ## Project Page
-coming soon
+https://tnhnatalay.github.io/diceGame/
 #
 ## Screen Shots
 #
